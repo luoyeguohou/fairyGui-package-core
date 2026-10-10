@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="238,78" extention="Button">
-  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,4,disabled,5,selectedDisabled" selected="0"/>
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,4,disabled,5,selectedDisabled" selected="1"/>
   <controller name="interactive" pages="0,,1," selected="0"/>
   <controller name="color" exported="true" pages="0,B,1,R,2,Y,3,G" selected="0"/>
   <displayList>

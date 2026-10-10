@@ -31,6 +31,8 @@
     <image id="mzlatnovjm" name="boss_icon.png" path="/MapPoint/"/>
     <image id="mzlatnovjn" name="special_icon.png" path="/MapPoint/"/>
     <image id="mzlatnovjo" name="unknown_icon.png" path="/MapPoint/"/>
+    <component id="petgtnovjp" name="BtnCommonSingle.xml" path="/BtnCommon/" exported="true"/>
+    <component id="petgtnovjq" name="BtnCommonMulti.xml" path="/BtnCommon/" exported="true"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>
