@@ -29,5 +29,5 @@
     <image id="mzlatnovjk" name="normal_combat_icon.png" path="/MapPoint/"/>
     <image id="mzlatnovjl" name="elite_combat_icon.png" path="/MapPoint/"/>
   </resources>
-  <publish name=""/>
+  <publish name="" genCode="true"/>
 </packageDescription>
