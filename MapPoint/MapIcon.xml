@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="155,155">
-  <controller name="type" exported="true" pages="1,combat,2,elite,3,event,0,campfire" selected="0"/>
+  <controller name="type" exported="true" pages="1,combat,2,elite,3,event,0,campfire,4,boss,5,special,6,unknown" selected="0"/>
   <displayList>
     <loader id="n2_hprj" name="n2" xy="0,0" size="155,155" url="ui://msb8m4n5mzlatnovjk" align="center" vAlign="middle" fill="scale">
-      <gearIcon controller="type" pages="1,2,3,0" values="ui://msb8m4n5mzlatnovjk|ui://msb8m4n5mzlatnovjl|ui://msb8m4n5mzlatnovji|ui://msb8m4n5mzlatnovjj"/>
+      <gearIcon controller="type" pages="1,2,3,0,4,5,6" values="ui://msb8m4n5mzlatnovjk|ui://msb8m4n5mzlatnovjl|ui://msb8m4n5mzlatnovji|ui://msb8m4n5mzlatnovjj|ui://msb8m4n5mzlatnovjm|ui://msb8m4n5mzlatnovjn|ui://msb8m4n5mzlatnovjo"/>
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
   </displayList>

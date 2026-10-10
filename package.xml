@@ -28,6 +28,9 @@
     <image id="mzlatnovjj" name="campfire_icon.png" path="/MapPoint/"/>
     <image id="mzlatnovjk" name="normal_combat_icon.png" path="/MapPoint/"/>
     <image id="mzlatnovjl" name="elite_combat_icon.png" path="/MapPoint/"/>
+    <image id="mzlatnovjm" name="boss_icon.png" path="/MapPoint/"/>
+    <image id="mzlatnovjn" name="special_icon.png" path="/MapPoint/"/>
+    <image id="mzlatnovjo" name="unknown_icon.png" path="/MapPoint/"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>
