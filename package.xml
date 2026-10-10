@@ -21,6 +21,13 @@
     <image id="fdnltnovh7" name="btnCommon1_dis.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
     <image id="fdnltnovgi" name="btnCommon1_mask.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,118,10"/>
     <image id="vsy2tnovjh" name="bgBox.png" path="/" exported="true" scale="9grid" scale9grid="44,44,16,16" gridTile="16"/>
+    <component id="hprj2a" name="MapIcon.xml" path="/MapPoint/"/>
+    <component id="lh0xw" name="MapPoint.xml" path="/MapPoint/" exported="true"/>
+    <component id="h8bhtnoves" name="Line.xml" path="/" exported="true"/>
+    <image id="mzlatnovji" name="event_icon.png" path="/MapPoint/"/>
+    <image id="mzlatnovjj" name="campfire_icon.png" path="/MapPoint/"/>
+    <image id="mzlatnovjk" name="normal_combat_icon.png" path="/MapPoint/"/>
+    <image id="mzlatnovjl" name="elite_combat_icon.png" path="/MapPoint/"/>
   </resources>
   <publish name=""/>
 </packageDescription>
