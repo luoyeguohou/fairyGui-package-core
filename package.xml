@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="msb8m4n5">
+  <resources>
+    <component id="vsy2tnovj2" name="BtnClose.xml" path="/BtnClose/" exported="true"/>
+    <image id="vsy2tnoviz" name="btnClose.png" path="/BtnClose/"/>
+    <image id="vsy2tnovj0" name="btnClose_dis.png" path="/BtnClose/"/>
+    <image id="vsy2tnovj1" name="btnClose_over.png" path="/BtnClose/"/>
+    <component id="fdnltnovh6" name="BtnCommon.xml" path="/BtnCommon/" exported="true"/>
+    <image id="fdnltnovgq" name="btnCommon1B.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovha" name="btnCommon1B_over.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgp" name="btnCommon1B_sel.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgo" name="btnCommon1G.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovh9" name="btnCommon1G_over.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgn" name="btnCommon1G_sel.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgm" name="btnCommon1R.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovh8" name="btnCommon1R_over.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgl" name="btnCommon1R_sel.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgk" name="btnCommon1Y.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovhb" name="btnCommon1Y_over.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgj" name="btnCommon1Y_sel.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovh7" name="btnCommon1_dis.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,148,36"/>
+    <image id="fdnltnovgi" name="btnCommon1_mask.png" path="/BtnCommon/" scale="9grid" scale9grid="45,21,118,10"/>
+    <image id="vsy2tnovjh" name="bgBox.png" path="/" exported="true" scale="9grid" scale9grid="44,44,16,16" gridTile="16"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
