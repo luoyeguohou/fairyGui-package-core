@@ -33,6 +33,17 @@
     <image id="mzlatnovjo" name="unknown_icon.png" path="/MapPoint/"/>
     <component id="petgtnovjp" name="BtnCommonSingle.xml" path="/BtnCommon/" exported="true"/>
     <component id="petgtnovjq" name="BtnCommonMulti.xml" path="/BtnCommon/" exported="true"/>
+    <image id="sqwitnovk1" name="a-elite.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk2" name="b-event.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk3" name="boss-boss.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk4" name="c-elite.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk5" name="d-battle.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk6" name="e-event.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk7" name="f-elite.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk8" name="g-event.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovk9" name="h-battle-selected.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovka" name="i-battle.png" path="/MapPoint/New/"/>
+    <image id="sqwitnovkb" name="exec-9e807e14-531c-412a-b5c3-03b5e1d1387b.png" path="/MapPoint/New/"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>
